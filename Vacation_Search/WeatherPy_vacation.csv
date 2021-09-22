@@ -11,7 +11,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 54,Bontang,ID,76.48,moderate rain,0.1333,117.5,KOPKAR Hotel Bintang Sintuk
 65,Turan,VN,77.05,broken clouds,16.0678,108.2208,Sun River Hotel
 69,Todos Santos,MX,84.0,overcast clouds,23.45,-110.2167,Hotel California Todos Santos
-73,Nioro,GM,78.55,scattered clouds,13.35,-15.75,
 82,Hilo,US,82.13,light rain,19.7297,-155.09,Hilo Hawaiian Hotel
 87,Naze,JP,77.92,clear sky,28.3667,129.4833,オーベルジュ・アガルイ
 90,Nansio,TZ,75.06,clear sky,-2.1333,33.05,Monarch Beach Hotel
@@ -113,7 +112,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 489,Benjamin Constant,BR,84.33,broken clouds,-4.3831,-70.0311,CASA AVALIADA
 490,Chaozhou,CN,82.26,clear sky,23.6651,116.6379,Seven Corner View Homestay
 494,Jati,PK,82.13,clear sky,24.3539,68.2671,Cafe Lala Rehan Restaurant
-496,Puro,PH,79.38,broken clouds,12.4841,123.3827,
 497,Cabinda,AO,75.04,scattered clouds,-5.55,12.2,Hotel Maiombe
 498,Parrita,CR,84.81,overcast clouds,9.5201,-84.3225,Beso del Viento
 499,Malino,PH,80.38,overcast clouds,15.1257,120.6727,Mula 1522 Private Resort
@@ -123,11 +121,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 519,Buraydah,SA,81.05,clear sky,26.326,43.975,فندق راحة السلام
 522,Tautira,PF,84.22,few clouds,-17.7333,-149.15,Pension Oaoa
 523,Santa Luzia,BR,77.9,clear sky,-19.7697,-43.8514,Pousada Chao Earth
-524,Poya,NC,75.0,broken clouds,-21.35,165.15,
 525,Kerema,PG,79.7,light rain,-7.9631,145.7785,Frena Lodge
 527,Gat,IL,75.88,clear sky,31.61,34.7642,OlusHome
 534,Gwadar,PK,80.22,clear sky,25.1216,62.3254,Sadaf Resort
-536,Ipil,PH,75.7,overcast clouds,7.75,122.5167,
 539,Jabinyanah,TN,80.4,overcast clouds,35.035,10.9081,maison belmabrouk
 545,Harper,LR,77.07,light rain,4.375,-7.7169,Screensaver
 546,Segou,ML,83.39,scattered clouds,13.4317,-6.2157,Comme chez soi
